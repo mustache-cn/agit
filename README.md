@@ -25,7 +25,7 @@
 ```yml
 url: https://git.xx.com
 token:
-path:
+path:        # If it is empty, it is the current directory
 groups:
     - group1
     - group2
