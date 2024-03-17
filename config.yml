@@ -1,0 +1,13 @@
+url: https://git.xx.com
+token:
+path:
+groups:
+    - group1
+    - group2
+groupIgnore:
+    - group3
+    - group4/framework
+repos:
+    - git@git.xxx.com:group/repo1.git
+repoIgnore:
+    - git@git.xxx.com:group/repo2.git
